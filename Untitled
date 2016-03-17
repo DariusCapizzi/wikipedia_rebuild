@@ -1,0 +1,88 @@
+<div class="side-nav">
+  <img src="imgs/enwiki.png" />
+  <a href="#">Main page</a>
+  <br>
+  <a href="#">Contents</a>
+  <br>
+  <a href="#">Featured content</a>
+  <br>
+  <a href="#">Current events</a>
+  <br>
+  <a href="#">Random article</a>
+  <br>
+  <a href="#">Donate to Wikipedia</a>
+  <br>
+  <a href="#">Wikipedia store</a>
+
+  <hr>
+  <h3>interaction</h3>
+  <ul class="">
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+  </ul>
+
+  <hr>
+  <h3>interaction</h3>
+  <ul class="">
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+  </ul>
+
+  <hr>
+  <h3>interaction</h3>
+  <ul class="">
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+  </ul>
+
+  <hr>
+  <h3>interaction</h3>
+  <ul class="">
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+  </ul>
+
+  <hr>
+  <h3>interaction</h3>
+  <ul class="">
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+    <li><a href="#">Main page</a></li>
+  </ul>
+
+
+</div>
