@@ -3,12 +3,25 @@ div {
   border: 1px solid black;
 }
 
-div::after {
-  content:attr(class);
+h3 {
+  font-size: 12px;
+  color: #4d4d4d;
+  font-weight: normal;
+  font-family: sans-serif;
+    margin: 10px 0 10px 0;
 }
 
+hr {
+  margin: 10px 0 10px 0;
+}
+
+
+/*div::after {
+  content:attr(class);
+}*/
+
 .top-nav, .content, .footer {
-  margin-left:  200px;
+  margin-left:  170px;
 }
 
 /* Main Divs */
@@ -17,8 +30,9 @@ div::after {
 
 .side-nav {
   float: left;
-  width: 200px;
-  height: 1300px;
+  width: 170px;
+  padding: 17.5px;
+  padding-top: 0;
 }
 
 .top-nav {
@@ -49,4 +63,21 @@ div::after {
 }
 .bottom-content {
   height: 225px;
+}
+
+/* Side Nav */
+.side-nav img {
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+.side-nav li, a {
+  font-size: 12px;
+  font-weight: normal;
+  font-family: sans-serif;
+}
+
+.side-nav ul {
+  list-style: none;
+  padding-left: 10px;
 }
