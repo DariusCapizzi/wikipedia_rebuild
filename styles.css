@@ -1,7 +1,52 @@
-[data-josh] {
-    content: attr(data-josh);
+/* General */
+div {
+  border: 1px solid black;
 }
 
-a[href]:after {
-  content: " [" attr(href) "]";
+div::after {
+  content:attr(class);
+}
+
+.top-nav, .content, .footer {
+  margin-left:  200px;
+}
+
+/* Main Divs */
+.outer-div {
+}
+
+.side-nav {
+  float: left;
+  width: 200px;
+  height: 1300px;
+}
+
+.top-nav {
+  height: 150px;
+}
+
+.content {
+  height: 1050px;
+  background-color: green;
+}
+
+.footer {
+  height: 100px;
+}
+
+/* Content Divs */
+.head-content {
+  height: 100px;
+}
+.left-content {
+  height: 500px;
+}
+.right-content {
+  height: 500px;
+}
+.center-content {
+  height: 225px;
+}
+.bottom-content {
+  height: 225px;
 }
