@@ -1,0 +1,7 @@
+[data-josh] {
+    content: attr(data-josh);
+}
+
+a[href]:after {
+  content: " [" attr(href) "]";
+}
